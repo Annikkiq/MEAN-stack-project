@@ -14,5 +14,17 @@ Angular is a TypeScript-based open-source web application framework and developm
 
 https://senelda.com/blog/why-angularjs-is-highly-popular/
 
+## Prerequisites
+
+Before using Angular, you should be familiar with:
+ - JavaScript
+ - HTML 
+ - CSS
+
 ## Installation
 
+Following this link you can set up Angular locally to your environment: https://angular.io/guide/setup-local
+
+### Tour of Heroes exercise
+
+https://github.com/Annikkiq/angular-exercise

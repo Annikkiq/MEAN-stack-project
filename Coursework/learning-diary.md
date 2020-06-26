@@ -10,4 +10,8 @@ Annika Rytkönen, 0592139
 
 - *25.06.2020*
   
-Today i started this project and watched the example project video. Some of the exercises are the same that i have done before, so i will just link them. New thing for me is Angular and im exited to learn it.
+Today I started this project and watched the example project video. Some of the exercises are the same that I have done before, so I will just link them. The new thing for me is Angular and I'm excited to learn it.
+
+- *26.06.2020*
+
+Today I'm continuing to learn Angular and making exercises. I coded through the Tour of Heroes tutorial and made Git repository for it: https://github.com/Annikkiq/angular-exercise. 
