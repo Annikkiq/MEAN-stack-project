@@ -20,10 +20,52 @@ Before using Angular, you should be familiar with:
  - JavaScript
  - HTML 
  - CSS
+***
 
 ## Installation
 
 Following this link you can set up Angular locally to your environment: https://angular.io/guide/setup-local
+***
+
+## Some common Angular CLI commands:
+
+```
+ng version
+```
+Shows your Angular version
+
+```
+ng help
+```
+Lists available commands
+
+```
+ng new <name>
+```
+Generates new workspace and initial Angular app
+
+```
+ng serve --open
+```
+Builds and serves your app and opens it at browser
+
+```
+ng generate component <name> || ng g c <name>
+```
+Generates new component
+
+```
+ng generate class <name> || ng g c <name>
+```
+Generates new class definition
+
+more about ng generate: https://angular.io/cli/generate
+
+```
+ng build
+```
+Builds for the production
+***
 
 ### Tour of Heroes exercise
 

@@ -15,3 +15,7 @@ Today I started this project and watched the example project video. Some of the 
 - *26.06.2020*
 
 Today I'm continuing to learn Angular and making exercises. I coded through the Tour of Heroes tutorial and made Git repository for it: https://github.com/Annikkiq/angular-exercise. 
+
+- *29.06.2020*
+
+Today I made more Angular exercises and updated the module4. 
