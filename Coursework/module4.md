@@ -24,7 +24,6 @@ Before using Angular, you should be familiar with:
 ## Installation
 
 Following this link you can set up Angular locally to your environment: https://angular.io/guide/setup-local
-***
 
 ## Some common Angular CLI commands:
 
@@ -54,9 +53,9 @@ ng generate component <name> || ng g c <name>
 Generates new component
 
 ```
-ng generate class <name> || ng g c <name>
+ng generate service <name> || ng g s <name>
 ```
-Generates new class definition
+Generates new service definition
 
 more about ng generate: https://angular.io/cli/generate
 
