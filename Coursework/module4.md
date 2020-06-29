@@ -20,7 +20,6 @@ Before using Angular, you should be familiar with:
  - JavaScript
  - HTML 
  - CSS
-***
 
 ## Installation
 
