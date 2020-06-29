@@ -30,39 +30,39 @@ Following this link you can set up Angular locally to your environment: https://
 ```
 ng version
 ```
-Shows your Angular version
+###### Shows your Angular version
 
 ```
 ng help
 ```
-Lists available commands
+###### Lists available commands
 
 ```
 ng new <name>
 ```
-Generates new workspace and initial Angular app
+###### Generates new workspace and initial Angular app
 
 ```
 ng serve --open
 ```
-Builds and serves your app and opens it at browser
+###### Builds and serves your app and opens it at browser
 
 ```
 ng generate component <name> || ng g c <name>
 ```
-Generates new component
+###### Generates new component
 
 ```
 ng generate service <name> || ng g s <name>
 ```
-Generates new service definition
+###### Generates new service definition
 
-more about ng generate: https://angular.io/cli/generate
+###### more about ng generate: https://angular.io/cli/generate
 
 ```
 ng build
 ```
-Builds for the production
+###### Builds for the production
 ***
 
 ### Tour of Heroes exercise
