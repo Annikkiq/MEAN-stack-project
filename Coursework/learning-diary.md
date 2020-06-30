@@ -19,3 +19,7 @@ Today I'm continuing to learn Angular and making exercises. I coded through the 
 - *29.06.2020*
 
 Today I made more Angular exercises and updated the module4. 
+
+- *30.06.2020*
+
+Today Im starting this project. I installed all necessary dependencies and im going through the videos.

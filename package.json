@@ -1,0 +1,34 @@
+{
+  "name": "mean-stack-project",
+  "version": "1.0.0",
+  "description": "MEAN project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annikkiq/MEAN-stack-project.git"
+  },
+  "dependencies": {
+    "angular2-flash-messages": "^1.0.8",
+    "bcryptjs": "2.4.3",
+    "body-parser": "1.18.2",
+    "cors": "2.8.4",
+    "express": "4.16.2",
+    "jsonwebtoken": "8.1.0",
+    "mongoose": "4.13.6",
+    "passport": "0.4.0",
+    "passport-jwt": "3.0.1"
+  },
+  "author": "Annika",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "1.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Annikkiq/MEAN-stack-project/issues"
+  },
+  "homepage": "https://github.com/Annikkiq/MEAN-stack-project#readme"
+}

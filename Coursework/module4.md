@@ -14,6 +14,11 @@ Angular is a TypeScript-based open-source web application framework and developm
 
 https://senelda.com/blog/why-angularjs-is-highly-popular/
 
+### What is Angular CLI?
+*CLI: Command-line interface*
+
+Angular CLI is a command line tool for creating and maintaining new Angular projects.  You can use the tool directly in a command shell, or through an interactive UI such as Angular Console.
+
 ## Prerequisites
 
 Before using Angular, you should be familiar with:
