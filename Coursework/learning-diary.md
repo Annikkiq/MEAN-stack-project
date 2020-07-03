@@ -27,3 +27,7 @@ Today I'm starting this project. I installed all the necessary dependencies and 
 - *02.07.2020*
   
 I went through more tutorials and finished the back-end of the project. I updated some of the old code represented in the tutorial. I also have Postman already installed on my computer, so I used that to test the HTTP calls. 
+
+- *03.07.2020*
+
+It took me some time to install the right Angular version since I was getting weird errors, but now I think my project is working fine. I had previously created an Angular project inside my home folder so it was conflicting with this project. Anyways now I'm back to watch the videos and ill start the front-end.

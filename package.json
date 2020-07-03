@@ -25,7 +25,7 @@
   "author": "Annika",
   "license": "ISC",
   "devDependencies": {
-    "@angular/cli": "1.6.0"
+    "@angular/cli": "^1.6.0"
   },
   "bugs": {
     "url": "https://github.com/Annikkiq/MEAN-stack-project/issues"
