@@ -1,1 +1,44 @@
-<p>home works!</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home page</title>
+</head>
+<body>
+  <div class="headline">
+    <h1>MEAN-stack App</h1>
+    <p>This is description of the app. Please press the button to register or login!</p>
+    <div class="links">
+      <a class="btn" [routerLink]="['/register']">Register</a>
+      <a class="btn" [routerLink]="['/login']">Login</a>
+    </div>
+  </div>
+  <div class="description">
+    <div class="column">
+      <h3>MongoDB</h3>
+      <p>MongoDB is an open source NoSQL database management system that uses a document-oriented 
+          database model, which supports various forms of data. It is based on the NoSQL document store model. 
+          The data objects are stored as separate documents inside a collection.</p>
+    </div>
+    <div class="column">
+      <h3>Express</h3>
+      <p>ExpressJS is an open source web framework for Node.js. It is used for building 
+          web applications and APIs. Express.js simplifies development and 
+          makes it easier to write secure, modular and fast applications.</p>
+    </div>
+    <div class="column">
+      <h3>Angular</h3>
+      <p>Angular is a TypeScript-based open-source web application
+        framework and development platform for creating dynamic single-page apps. 
+        It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly.</p>
+    </div>
+    <div class="column">
+      <h3>NodeJS</h3>
+      <p>Node is JavaScript runtime built on Chrome's V8 JavaScript Engine and it's used to build
+        web applications. Node. js uses an event-driven, non-blocking I/O model that makes it lightweight 
+        and efficient for data-intensive real-time applications that run across distributed devices.</p>
+    </div>
+  </div>
+</body>
+</html>
