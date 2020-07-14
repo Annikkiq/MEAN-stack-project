@@ -12,7 +12,6 @@
     "url": "git+https://github.com/Annikkiq/MEAN-stack-project.git"
   },
   "dependencies": {
-    "angular2-flash-messages": "^1.0.8",
     "bcryptjs": "2.4.3",
     "body-parser": "1.18.2",
     "cors": "2.8.4",

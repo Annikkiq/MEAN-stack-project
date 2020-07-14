@@ -31,3 +31,12 @@ I went through more tutorials and finished the back-end of the project. I update
 - *03.07.2020*
 
 It took me some time to install the right Angular version since I was getting weird errors, but now I think my project is working fine. I had previously created an Angular project inside my home folder so it was conflicting with this project. Anyways now I'm back to watch the videos and ill start the front-end.
+
+- *09.07.2020*
+
+I forgot to write diary yesterday, but today im back on track. Currently im at video 6.
+
+- *14.07.2020*
+
+I'm running to some errors with angular flash messages. I have tried 3 versions of that package but all of them have some issues. i try to fix this problem today.
+

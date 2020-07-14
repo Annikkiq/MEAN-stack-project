@@ -12,3 +12,42 @@ body {
   box-sizing: border-box;
 }
 
+label {
+  font-size: 16px;
+}
+
+.header {
+  display: flex;
+  padding: 30px 20px;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1em;
+}
+
+.form input {
+  padding: 10px;
+}
+
+.submit_button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.btn {
+  padding: 10px 40px;
+  font-size: 15px;
+  background-color: rgb(224, 234, 243);
+  border: 1px solid black;
+  cursor: pointer;
+}
